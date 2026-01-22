@@ -34,18 +34,18 @@ Ensure you have Python installed. This project is optimized for Python 3.12.
     python ttt.py
     ```
 
-##  How to Play
+## How to Play
 1.  Launch the game to see the starting cover screen.
 2.  The game board will appear. Player **X** always goes first.
 3.  Click on any empty grid square to place your mark.
 4.  The game automatically checks for a winner or a draw after every move.
 5.  When the game ends, click **Play Again** to reset the board or **Quit** to close.
 
-## 🔮 Future Improvements
+## Future Improvements
 * [ ] Implement a Minimax AI algorithm for a Single Player mode.
 * [ ] Add a score tracker to persist wins across rounds.
 
-## 👤 Author
+## Author
 **Avneesh**
 * Student at University of San Francisco (USF)
 
